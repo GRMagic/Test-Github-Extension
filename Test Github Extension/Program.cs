@@ -6,7 +6,7 @@ namespace Test_Github_Extension
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Git World!");
         }
     }
 }
